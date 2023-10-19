@@ -2,7 +2,7 @@
 
 Yes, you can still use this software. It just won't recieve any updates now.
 
-> The reason behind shutting the project down is that a developer with write access to the code published a [problematic video](https://github.com/YAPMIX/roop/commit/cf7ba1caf932e8c9f39d972100f74022e7372c27) to the documentation of the project. This happened while I was taking a break from the project in July-Aug 2023. It went unnoticed for 2 weeks until someone reached out to me to talk about this project. It was a complete breach of trust for me and I decided that I do not have the interest or time to oversee the development of a software with such ethical issues.
+> The reason behind shutting the project down is that a developer with write access to the code published a to the documentation of the project. This happened while I was taking a break from the project in July-Aug 2023. It went unnoticed for 2 weeks until someone reached out to me to talk about this project. It was a complete breach of trust for me and I decided that I do not have the interest or time to oversee the development of a software with such ethical issues.
 > I thank all the amazing people who contributed to this project and made what it is in it's final form.
 
 # Roop
